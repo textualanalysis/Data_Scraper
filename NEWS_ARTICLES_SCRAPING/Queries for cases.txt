@@ -1,0 +1,14 @@
+# For OC-Tranpo case
+#query = 'ottawa AND ((oc AND transpo) OR LRT OR otrain OR o-train)'
+
+# For Toronto Quayside case
+#query='toronto AND (quayside OR blocksidewalk)' 
+
+# For COVID19 in OTTAWA case
+#query='ottawa AND (corona OR virus OR pandemic OR covid OR coronavirus)'
+
+# For COVID19 in TORONTO case
+#query='toronto AND (corona OR virus OR pandemic OR covid OR coronavirus)'
+
+# For COVID19 in VANCOUVER case
+#query='vancouver AND (corona OR virus OR pandemic OR covid OR coronavirus)'
